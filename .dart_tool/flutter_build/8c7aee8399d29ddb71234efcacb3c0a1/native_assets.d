@@ -1,0 +1,1 @@
+ C:\\Users\\Citra\\Documents\\doctor_appointment_app\\.dart_tool\\flutter_build\\8c7aee8399d29ddb71234efcacb3c0a1\\native_assets.yaml: 

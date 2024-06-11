@@ -1,0 +1,1 @@
+ C:\\Users\\Aditiya\ Gilang\\Downloads\\Work\\kelompok5_docconnect\\.dart_tool\\flutter_build\\355159b0f57bde4fa94fa6914ea6c418\\native_assets.yaml: 

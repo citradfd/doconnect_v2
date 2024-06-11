@@ -1,0 +1,12 @@
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-annotation-experimental-1.1.0-0 C:\Users\Aditiya Gilang\.gradle\caches\transforms-3\36bbb6e20e06243ba75c6eb12e22b99e\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-java-1.0.0-beta04-1 C:\Users\Aditiya Gilang\.gradle\caches\transforms-3\74adb7f14d95b391a6a3544820bc8926\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-1.0.0-beta04-2 C:\Users\Aditiya Gilang\.gradle\caches\transforms-3\b13cd7e000fd22b1e7d90d52edfffd44\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.6.0-3 C:\Users\Aditiya Gilang\.gradle\caches\transforms-3\da196a875d1eabd7585596329acdb9a1\transformed\core-1.6.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-main-4 C:\Users\Aditiya Gilang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.0\android\src\main\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-5 C:\Users\Aditiya Gilang\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.0\android\src\release\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-6 C:\Users\Aditiya Gilang\Downloads\Work\kelompok5_docconnect\build\shared_preferences_android\generated\res\pngs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-7 C:\Users\Aditiya Gilang\Downloads\Work\kelompok5_docconnect\build\shared_preferences_android\generated\res\resValues\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-rs-8 C:\Users\Aditiya Gilang\Downloads\Work\kelompok5_docconnect\build\shared_preferences_android\generated\res\rs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-9 C:\Users\Aditiya Gilang\Downloads\Work\kelompok5_docconnect\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-10 C:\Users\Aditiya Gilang\Downloads\Work\kelompok5_docconnect\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-merged_res-11 C:\Users\Aditiya Gilang\Downloads\Work\kelompok5_docconnect\build\shared_preferences_android\intermediates\merged_res\release
